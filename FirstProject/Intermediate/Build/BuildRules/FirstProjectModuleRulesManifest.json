@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Proj\\UnrealProj\\UE4Testing\\FirstProject\\Source\\FirstProject\\FirstProject.Build.cs",
+		"D:\\Proj\\UnrealProj\\UE4Testing\\FirstProject\\Source\\FirstProject.Target.cs",
+		"D:\\Proj\\UnrealProj\\UE4Testing\\FirstProject\\Source\\FirstProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}
